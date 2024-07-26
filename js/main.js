@@ -8,6 +8,207 @@ Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=Mille
 p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
 
 ------------------------------------------- */
+
+function openNewTab() {
+  const url = 'https://customerurl.com/mydemos/judicial/';
+  window.open(url, '_blank');
+}
+
+
+function openNewTab1() {
+  const url = 'https://customerurl.com/mydemos/arp/';
+  window.open(url, '_blank');
+}
+
+function openNewTab2() {
+  const url = 'https://customerurl.com/mydemos/Construction/';
+  window.open(url, '_blank');
+}
+
+
+function openNewTab3() {
+  const url = 'https://customerurl.com/mydemos/cleaning/';
+  window.open(url, '_blank');
+}
+
+
+function openNewTab4() {
+  const url = 'https://customerurl.com/mydemos/nencesbeauty/';
+  window.open(url, '_blank');
+}
+
+function openNewTab5() {
+  const url = 'https://customerurl.com/mydemos/healthwellness/';
+  window.open(url, '_blank');
+}
+
+function openNewTab6() {
+  const url = 'https://demofordesignsinc.com/mydemos/epoxy/';
+  window.open(url, '_blank');
+}
+
+function openNewTab7() {
+  const url = 'https://demofordesignsinc.com/mydemos/theatre/';
+  window.open(url, '_blank');
+}
+
+function openNewTab8() {
+  const url = 'https://demofordesignsinc.com/mydemos/electricity/';
+  window.open(url, '_blank');
+}
+
+function openNewTab9() {
+  const url = 'https://customerurl.com/mydemos/lacosta/';
+  window.open(url, '_blank');
+}
+
+function openNewTab10() {
+
+  const url = 'https://customerurl.com/mydemos/detailx/';
+  window.open(url, '_blank');
+}
+
+function openNewTab11() {
+
+  const url = 'https://customerurl.com/mydemos/painting';
+  window.open(url, '_blank');
+}
+
+function openNewTab12() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/renovation/';
+  window.open(url, '_blank');
+}
+
+function openNewTab13() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/mental/';
+  window.open(url, '_blank');
+}
+
+function openNewTab14() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/childcare/';
+  window.open(url, '_blank');
+}
+
+
+function openNewTab15() {
+
+const url = 'https://demofordesignsinc.com/mydemos/gamezgutters/';
+  window.open(url, '_blank');
+}
+
+
+function openNewTab16() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/pool/';
+    window.open(url, '_blank');
+}
+
+function openNewTab17() {
+
+    const url = '  https://demofordesignsinc.com/mydemos/luis/';
+      window.open(url, '_blank');
+}
+
+
+function openNewTab18() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/homerenovation/';
+    window.open(url, '_blank');
+}
+
+function openNewTab19() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/transport/';
+    window.open(url, '_blank');
+}
+
+
+function openNewTab20() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/insurance/';
+    window.open(url, '_blank');
+}
+
+
+function openNewTab21() {
+
+  const url = 'https://customerurl.com/mydemos/traveladventures/';
+    window.open(url, '_blank');
+}
+
+
+function openNewTab22() {
+
+  const url = 'https://customerurl.com/mydemos/tortillas/';
+    window.open(url, '_blank');
+}
+
+
+function openNewTab23() {
+
+  const url = 'https://customerurl.com/mydemos/artist/';
+    window.open(url, '_blank');
+}
+
+
+
+function openNewTab24() {
+
+  const url = 'https://customerurl.com/mydemos/sergio/';
+    window.open(url, '_blank');
+}
+
+
+
+function openNewTab25() {
+
+  const url = 'https://customerurl.com/mydemos/autorepair/';
+    window.open(url, '_blank');
+}
+
+
+
+function openNewTab26() {
+
+  const url = 'https://demofordesignsinc.com/web/roofing/';
+    window.open(url, '_blank');
+}
+
+function openNewTab27() {
+
+  const url = 'https://demofordesignsinc.com/mydemos/karen/';
+    window.open(url, '_blank');
+}
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 $(function() {
 
   "use strict";
